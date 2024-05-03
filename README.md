@@ -22,11 +22,15 @@ __3.Creating Dashboard__
 A dashboard was created based on the Pivote tables created.Filters were added to the tables related to marital status, region and education of customers based on which the analysis has been done.    
 
 ## 2.KPI's from the report    
-1.North America region middle age people buys more bikes compared to other two regions.    
-2.People with Educational qualification in Bachelors and Graduate Degree bought more bikes.   
-3.On an average both Married and Single people buy same amount of bikes in North America.  
+1.Average income per purchase of the customers.    
+2.Customer age variation.   
+3.Customers  vs community distance. 
 
 ## 3.Insights from the report     
-1.Sales in Europe and Pacific has to be improved.Despite having Youth population the sales was not upto the mark.Bikes relevent Youth has to be introduced.     
-2.Average income per purchase of married people in Europe is high.Bikes targetting married couple could boost the sales.   
-3.Bikes that covers long distance might help the sales as  an amount of people do not have bikes despite travelling more than 10 Miles. 
+
+
+1.In North America region middle age people buys more bikes compared to other two regions.   
+2.People with Educational qualification in Bachelors and Graduate Degree bought more bikes.    
+3.Sales in Europe and Pacific has to be improved.Despite having Youth population the sales was not upto the mark.Bikes relevent Youth has to be introduced.    
+4.Average income per purchase of married people in Europe is high.Bikes targetting married couple could boost the sales.    
+5.Bikes that covers long distance might help the sales as an amount of people do not have bikes despite travelling more than 10 Miles.
