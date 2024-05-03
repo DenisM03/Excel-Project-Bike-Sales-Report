@@ -29,4 +29,4 @@ A dashboard was created based on the Pivote tables created.Filters were added to
 ## 3.Insights from the report     
 1.Sales in Europe and Pacific has to be improved.Despite having Youth population the sales was not upto the mark.Bikes relevent Youth has to be introduced.     
 2.Average income per purchase of married people in Europe is high.Bikes targetting married couple could boost the sales.   
-3.Bikes that covers long distance might help the sales an amount of people do not have bikes despite travelling more than 10 Miles. 
+3.Bikes that covers long distance might help the sales as  an amount of people do not have bikes despite travelling more than 10 Miles. 
