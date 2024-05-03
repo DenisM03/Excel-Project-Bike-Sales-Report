@@ -23,8 +23,8 @@ A dashboard was created based on the Pivote tables created.Filters were added to
 
 ## 2.KPI's from the report    
 1.Average income per purchase of the customers.    
-2.Customer age variation.   
-3.Customers  vs community distance. 
+2.Customer age group and purchase rate.   
+3.Customers  vs community distance and purchase rate. 
 
 ## 3.Insights from the report     
 
